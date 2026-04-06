@@ -2,6 +2,11 @@
 
 This repository contains Python-based digital signal processing (DSP) algorithms developed to model, analyze, and visualize acoustic features, with a focus on frequency decomposition and real-time audio processing.
 
+![Real-Time Visualizer](Figure_RealTime4.png)
+![C Major Lissajous](Figure_Cmaj_lissajous3.png)
+![2D Lissajous Kinematics](Figure_lissajous2.png)
+![FFT Analysis](Figure_fft1.png)
+
 ## Core Features & Scripts
 
 * **`wav_file_fft_analysis.py`**: Utilizes Fast Fourier Transform (FFT) via `scipy.fft` to process complex audio files (e.g., guitar chords), isolating and identifying the constituent peak frequencies. 
